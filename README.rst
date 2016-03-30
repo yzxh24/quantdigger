@@ -1,4 +1,4 @@
-QuantDigger 0.4.0
+QuantDigger 0.4.4
 ==================
 
 QuantDigger目前是一个基于python的量化回测框架。作者最初是因为对数据处理和机器学习感兴趣而选择了这个行业，
@@ -28,7 +28,7 @@ pip安装
       按照指示安装ta-lib动态库: https://github.com/mrjbq7/ta-lib
       pip install quantdigger
 
-或者克隆github代码后本地安装
+或者克隆github代码后本地安装(推荐)
    
   ::
        
